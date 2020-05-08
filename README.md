@@ -1,0 +1,19 @@
+- src
+  - books
+    - author
+      - author.entity.ts
+      - author.service.ts
+      - author.resolver.ts
+    - book
+      - book.entity.ts
+      - book.service.ts
+      - book.resolver.ts
+    - genre
+      - genre.entity.ts
+      - genre.service.ts
+      - genre.resolver.ts
+  - reviews
+    - review.entity.ts
+    - review.service.ts
+  - app.module.ts
+  - main.ts
